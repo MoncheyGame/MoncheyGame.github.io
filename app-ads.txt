@@ -83,7 +83,7 @@ meitu.com, 568, RESELLER
 
 
 #Vungle
-vungle.com, 62d783558085ce00143aa3a0, DIRECT, c107d686becd2d77
+vungle.com,685a44d0892f9d0011d5ca8e,DIRECT,c107d686becd2d77
 acexchange.co.kr, 1416775282, RESELLER
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
 adcolony.com, c7b2bb9f944ae42a, RESELLER, 1ad675c9de6b5176
